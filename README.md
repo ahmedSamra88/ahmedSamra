@@ -1,6 +1,6 @@
 # About Me
 Ahmed Mohammed Abo Elnoor,
-Freelancing Wordpress Developer And Desktop App,
+Freelancing Wordpress Developer And Desktop programmer,
 ## Skills
 1- FrontEnd JS , CSS3 , HTML5.
 2- Wordpress.
