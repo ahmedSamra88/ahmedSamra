@@ -9,16 +9,20 @@ Freelancing Wordpress Developer And Desktop programmer,
 5-PHP.
 6-C#.
 ## Experiance
-2020: Now
 ### freelancer
+  2020: Now
+
   wordpress Developer,
   DataEntry.
-2016:2020
 ### Technical Support
+  2016:2020
+
   In KSA Work With Alkam Co as Technical Support for Asser Area responsible for 15 branches.
-2013:2016
 ### Instructor
+  2013:2016
+
   In KSA Four Years Teaching NetWork Basics, Ms Programs , and OOP Programming Skills.
-2011 : 2013
 ### DataEntry
+  2011 : 2013
+
   At Mashroey Co, in Egypt ,Registering Clients Application and Printing Reports.
